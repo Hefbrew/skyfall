@@ -21,3 +21,7 @@ ul.mb-4 {
 .flex.items-center.space-x-2 {
     font-family: monospace;
 }
+
+.sm\:pt-24lg\:pt-32.pb-\[60px\].pt-16.sm\:pb-8 {
+    background-color: azure;
+}
