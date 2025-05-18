@@ -1,17 +1,3 @@
 {
   "showSidebar": true
-  "nav": {
-    "logo": "logo11.jpeg",
-    "title": "SKYFALL",
-    "links": [
-      {
-        "href": "/blog",
-        "name": "Blog"
-      },
-      {
-        "href": "/about",
-        "name": "About"
-      }
-    ]
-  }
 }
