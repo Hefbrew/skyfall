@@ -2,15 +2,15 @@
   "showSidebar": true,
   "nav": {
     "logo": "logo11(4).jpeg",
-    "title": "",
+    "title": "Skyfall",
     "links": [
       {
         "href": "/Temp1",
-        "name": "Temp1"
+        "name": "  Temp1"
       },
       {
         "href": "/Temp2",
-        "name": "Temp2"
+        "name": "  Temp2"
       }
     ]
   }
