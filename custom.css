@@ -4,5 +4,9 @@
 }
 
 .hidden.xl\:block {
-    font-family: math;
+    font-family: monospace;
+}
+
+normal.text-primary-subtle {
+    font-family: monospace;
 }
