@@ -13,3 +13,7 @@ ul.mb-4 {
 .z-10.bg-background.font-title.text-base.font-normal.sticky.top-0 {
     background-color: lightblue;
 }
+
+.flex.w-full.flex-col {
+    font-family: monospace;
+}
