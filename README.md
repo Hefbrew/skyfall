@@ -32,7 +32,7 @@ If you're starting from scratch:
 ## Learn More
 
 For more information about Flowershow and how to customize this template, visit:
-- [Flowershow Documentation](https://flowershow.app/docs)
+- [Flowershow Documentation](https://my.flowershow.app/@Hefbrew/Skyfall/Blah)
 
 ---
 
