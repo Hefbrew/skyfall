@@ -1,17 +1,7 @@
 {
   "nav": {
     "logo": "logo11(4).jpeg",
-    "title": "Skyfall",
-    "links": [
-      {
-        "href": "/blog",
-        "name": "Blog"
-      },
-      {
-        "href": "/about",
-        "name": "About"
-      }
-    ]
+    "title": "Skyfall"
   },
   "showSidebar": true
 }
