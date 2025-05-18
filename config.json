@@ -1,7 +1,17 @@
 {
-  "showSidebar": true,
+  "showSidebar": true
   "nav": {
     "logo": "logo11(4).jpeg",
-    "title": "Skyfall"
+    "title": "Skyfall",
+    "links": [
+      {
+        "href": "/",
+        "name": ""
+      },
+      {
+        "href": "/",
+        "name": ""
+      }
+    ]
   }
 }
