@@ -3,7 +3,8 @@
   "nav": {
     "logo": "logo11(2).jpeg",
     "title": "",
-    "size": 64, 64,
+    "width": 64
+    "height": 64
     "links": [
       {
         "href": "/Temp1",
