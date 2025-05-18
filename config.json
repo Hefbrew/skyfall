@@ -1,10 +1,11 @@
 {
   "showSidebar": true,
   "nav": {
-    "logo": "logo11(2).jpeg",
+    "logo": "logo11(2).jpeg" [
+      "width": 64,
+      "height": 64,
+    ],
     "title": "",
-    "width": 64px
-    "height": 64px
     "links": [
       {
         "href": "/Temp1",
