@@ -2,3 +2,7 @@
     background: #e0ffff !important;
     font-family: monospace !important;
 }
+
+.hidden.xl\:block {
+    font-family: math;
+}
