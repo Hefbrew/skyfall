@@ -1,5 +1,4 @@
 {
-  "showSidebar": true
   "nav": {
     "logo": "logo11(3).jpeg",
     "title": "",
@@ -13,5 +12,6 @@
         "name": "About"
       }
     ]
-  }
+  },
+  "showSidebar": true
 }
