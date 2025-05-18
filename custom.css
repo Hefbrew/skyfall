@@ -1,6 +1,5 @@
-.bg-background {
-    background: #e0ffff !important;
-    font-family: monospace !important;
+.relative {
+    background-color: azure;
 }
 
 .hidden.xl\:block {
@@ -9,4 +8,8 @@
 
 ul.mb-4 {
     font-family: monospace;
+}
+
+.z-10.bg-background.font-title.text-base.font-normal.sticky.top-0 {
+    background-color: lightblue;
 }
