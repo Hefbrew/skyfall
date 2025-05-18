@@ -17,3 +17,7 @@ ul.mb-4 {
 .flex.w-full.flex-col {
     font-family: monospace;
 }
+
+.flex.items-center.space-x-2 {
+    font-family: monospace;
+}
