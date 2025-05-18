@@ -1,3 +1,7 @@
 {
   "showSidebar": true
+  "nav": {
+    "logo": "logo11.jpeg",
+    "title": "My Digital Garden"
+  }
 }
