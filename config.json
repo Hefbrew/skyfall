@@ -1,8 +1,8 @@
 {
-  "showSidebar": false
+  "showSidebar": true
   "nav": {
     "logo": "logo11(4).jpeg",
-    "title": "Skyfall",
+    "title": "",
     "links": [
       {
         "href": "/blog",
